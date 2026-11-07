@@ -6,9 +6,8 @@ Reinforcement Learning course, University College of Engineering (A), Osmania Un
 
 | S.No | Name | Roll No |
 |------|------|---------|
-| 1 | Dolanaga Pavani Kamarthapu | ________ |
-| 2 | ________ | ________ |
-| 3 | ________ | ________ |
+| 1 | Dolanaga Pavani Kamarthapu | __28__ |
+| 2 | Dhaniyakula Madhuri | __14__|
 
 ## About the project
 
